@@ -1,5 +1,5 @@
-J'kaud, j'kaud, é la nui je fé d mérj rékwest
-*cot-cot*, c leu brui dmn gite poule kontre ta branch test
+J'code, j'code, et la nuit je te fais des merge request
+*cot-cot*, c'est le bruit du git pull sur ta branche test
 
 <!---
 guillaumekieffermanudev/guillaumekieffermanudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
