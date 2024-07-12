@@ -1,4 +1,4 @@
-J'code, j'code, et la nuit je te fais des merge request
+J'code, j'code, et la nuit j'te fais des merge request
 *cot-cot*, c'est le bruit du git pull sur ta branche test
 
 <!---
