@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guillaume Kieffer
 
-**Full Stack Developer** | PHP • Symfony • Prestashop
+**Full Stack Developer** | PHP • Symfony • Prestashop for [Gosto-Manudev](https://github.com/Gosto-Manudev).
 
 ---
 
