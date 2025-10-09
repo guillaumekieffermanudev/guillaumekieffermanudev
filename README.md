@@ -22,17 +22,19 @@ Outside of coding, you’ll find me screaming as a metalcore singer or adventuri
 
 ## 💡 Skills
 
-- PHP, Symfony, Prestashop
+- PHP, Symfony, Prestashop, Typescript
 - Full Stack Development
 - Project Leadership
 - Web Design
 - Problem Solving & Persistence
+- Incoming : React
 
 ---
 
 ## 🎓 Education
 
 - **BAC+4:** Project Leader, Web Development Specialist
+- **BAC+3:** App Conception and Development
 - **BAC+2:** Webdesigner
 
 ---
